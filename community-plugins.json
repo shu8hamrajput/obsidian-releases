@@ -1,5 +1,12 @@
 [
   {
+  "id": "note-sync",
+  "name": "Note Sync",
+  "author": "Shubham Rajput",
+  "description": "Publish notes to Ghost, WordPress, Dev.to, Mataroa, Hashnode, Medium, WebDAV, and S3 from Obsidian.",
+  "repo": "shubhamrajput/obsidian-note-sync"
+ },
+  {
     "id": "table-editor-obsidian",
     "name": "Advanced Tables",
     "author": "tgrosinger",
